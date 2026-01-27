@@ -68,8 +68,9 @@ Unlike standard MATSim "day-to-day" replanning, this RL agent is embedded in the
 ## Development Status
 **Current Phase:** `Initial Integration & Testing`
 
+- [x] Develop a test bed
 - [x] Theoretical MDP Formulation
-- [x] Java–Python API Prototype
+- [?] Java–Python API Prototype
 - [ ] Finalization of State Representations
 - [ ] Large-scale behavioral convergence testing
 
